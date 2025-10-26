@@ -9,33 +9,28 @@
 ### 💼 About Me
 
 - 🎓 I'm studying **Computer Engineering** at **ADNSU** and also studied at **Step IT Academy**.
-- 👨‍💻 I develop **full-stack web applications**, mostly using **C#, ASP.NET, React, and SQL**.
-- 🚀 Currently working on:
-  - HealthTracker Web App 🏃‍♂️
-  - Real Estate CRM System 🏡
-  - AI-based Presentation Generator 🎤
+- 👨‍💻 I develop **full-stack web applications**, mostly using **Nect.js, React.js, Node.js, MongoDb**.
 
 ---
 
 ### 🔧 Tech Stack
 
 **Languages & Frameworks:**
-- `C#` | `.NET` | `ASP.NET MVC / Web API`
-- `JavaScript` | `React / React Native`
-- `SQL` | `NoSQL` | `Entity Framework`
-- `HTML`, `CSS`, `Node.js`
+- `C#` | `.NET` | `Node.js` | `Next.js`
+- `JavaScript` | `TypeScript` | `React / React Native`
+- `SQL` | `NoSQL` | `MongoDb`
 
 **Tools:**
 - `Visual Studio` | `VS Code` | `Postman`
-- `Git`, `GitHub`, `Docker`
+- `Git`, `GitHub`, `Vercel`
 
 ---
 
 ### 📌 Featured Projects
 
 - 🔗 [HealthTracker App](https://github.com/XankisiyevYusif/Health-Tracker)
-- 🔗 [Live Crypto Chart](https://github.com/XankisiyevYusif/Live-Crypto-Charts)
-- 🔗 [Social Media App (SignalR)](https://github.com/XankisiyevYusif/SocialNetwork)
+- 🔗 [E-Commerce Next.js](https://github.com/XankisiyevYusif/nextjs-ecommerce)
+- 🔗 [Social Media App](https://github.com/XankisiyevYusif/SocialNetwork)
 
 ---
 
