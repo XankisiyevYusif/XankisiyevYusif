@@ -9,16 +9,26 @@
 ### 💼 About Me
 
 - 🎓 I'm studying **Computer Engineering** at **ADNSU** and also studied at **Step IT Academy**.
-- 👨‍💻 I develop **full-stack web applications**, mostly using **Nect.js, React.js, Node.js, MongoDb**.
+- 👨‍💻 I develop **full-stack web applications**, mostly using **Next.js, React.js, Node.js, MongoDb, Supabase**.
 
 ---
 
 ### 🔧 Tech Stack
 
-**Languages & Frameworks:**
-- `C#` | `.NET` | `Node.js` | `Next.js`
-- `JavaScript` | `TypeScript` | `React / React Native`
-- `SQL` | `NoSQL` | `MongoDb`
+## 🌟 Current Tech Stack
+
+### 🤖 AI / ML
+- Python
+
+### ⚡ Backend
+- Node.js
+
+### 🌐 Frontend / Fullstack
+- Next.js
+
+### 🗄 Databases
+- Supabase
+- MongoDB
 
 **Tools:**
 - `Visual Studio` | `VS Code` | `Postman`
