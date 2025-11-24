@@ -15,24 +15,27 @@
 
 ### 🔧 Tech Stack
 
-## 🌟 Current Tech Stack
-
-### 🤖 AI / ML
-- Python
+### 🌐 Frontend / Fullstack
+- Next.js, React.js
 
 ### ⚡ Backend
-- Node.js
-
-### 🌐 Frontend / Fullstack
-- Next.js
+- Node.js, ASP.NET Web API
 
 ### 🗄 Databases
+- SQL
 - Supabase
 - MongoDB
 
-**Tools:**
-- `Visual Studio` | `VS Code` | `Postman`
-- `Git`, `GitHub`, `Vercel`
+### 🤖 AI / ML
+- Python
+- OpenAI API, AI models integration 
+
+## 🛠 Tools & Platforms
+
+- **IDE / Editors:** `Visual Studio`, `VS Code`  
+- **API & Testing:** `Postman`  
+- **Version Control:** `Git`, `GitHub`  
+- **Deployment / Hosting:** `Vercel`
 
 ---
 
