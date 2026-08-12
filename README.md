@@ -19,7 +19,7 @@
 - Next.js, React.js
 
 ### ⚡ Backend
-- Node.js, ASP.NET Web API
+- SpringBoot, ASP.NET Web API
 
 ### 🗄 Databases
 - SQL
